@@ -15,7 +15,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: walidsaad/argocd-demo:a36918e1afd7125337bfcca920a39639031c0a2e
+      - image: walidsaad/argocd-demo:986f8af83b098530dc5fef5bfdd537e2e323a650
         name: demo
         ports:
         - containerPort: 8080
